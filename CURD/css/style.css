@@ -1,0 +1,12 @@
+body {
+    padding: 3%;
+    background-color: bisque;
+}
+
+form input {
+    margin: 3%
+}
+
+.col-sm-12 {
+    margin: 2%
+}
